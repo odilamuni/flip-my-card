@@ -14,7 +14,7 @@ export const FrontSide = ( )=> {
         <div className="main-content" id="main-frontside">
             <Main/>
             
-            <div className="seeReverse"><span>contact info</span><i className="fas fa-hand-point-right"></i>
+            <div className="seeReverse"><span>Contact Info</span><i className="fas fa-hand-point-right"></i>
             </div>
         </div>
      </div>
